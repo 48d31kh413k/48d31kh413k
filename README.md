@@ -30,10 +30,6 @@ class Skills:
 - Oracle AI applications
 
 
-## 📈 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=48d31kh413k&show_icons=true&theme=radical)
-
-
 ## 🎯 Future Goals
 - Expanding expertise in AI/ML
 - Contributing to open-source projects
