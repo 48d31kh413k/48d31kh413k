@@ -56,16 +56,5 @@ Software Engineer with strong foundation in system administration and web develo
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)
 
-## 🌱 Recent Learning
-- Advanced Docker containerization
-- Web architecture optimization
-- Microsoft AI technologies
-- Oracle AI applications
-
-
-## 🎯 Future Goals
-- Expanding expertise in AI/ML
-- Contributing to open-source projects
-- Developing innovative solutions for real-world problems
 
 
