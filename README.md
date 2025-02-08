@@ -31,7 +31,7 @@ class Skills:
 
 
 ## 📈 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=48d31kh413k&show_icons=true&theme=radical)
 
 
 ## 🎯 Future Goals
