@@ -1,6 +1,4 @@
 
-## Hi there 👋
-
 ## 💫 About Me
 Software Engineer with strong foundation in system administration and web development. Passionate about developing robust solutions and exploring new technologies.
 
