@@ -1,11 +1,11 @@
 
 # Abdelkhalek
 
-## About Me
+## 🧠 About Me
 Software Engineer with a strong foundation in system administration and web development, focused on building scalable, reliable systems. AI & DevOps enthusiast specializing in automation, cloud infrastructure, and practical machine learning integration.
 
 
-## Contact
+## 📫 Contact
 If you’d like to collaborate or discuss a project, reach me via:
 - **LinkedIn:** [abdelkhalekb](https://www.linkedin.com/in/abdelkhalekb/)
 - **Email:** [boutahriabdelkhalek@gmail.com](mailto:boutahriabdelkhalek@gmail.com)
