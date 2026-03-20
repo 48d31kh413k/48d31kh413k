@@ -12,5 +12,5 @@ If you’d like to collaborate or discuss a project, reach me via:
 
 
 ## 💻 Technical Skills
-[![My Skills](https://skillicons.dev/icons?i=docker,kubernetes,gitlab,heroku,vercel,nginx,postman,redis,c,cpp,js,bash,java,php,py,html,css,bootstrap,tailwind,django,react,sass,mongodb,mysql,postgres,sqlite,linux,debian,redhat,ubuntu,apple)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=docker,kubernetes,gitlab,nginx,postman,redis,c,cpp,js,bash,java,php,py,html,css,bootstrap,tailwind,django,react,sass,mongodb,mysql,postgres,sqlite,linux,debian,redhat,ubuntu,apple)](https://skillicons.dev)
 
