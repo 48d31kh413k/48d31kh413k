@@ -1,6 +1,16 @@
 
-## 💫 About Me
-Software Engineer with strong foundation in system administration and web development. Passionate about developing robust solutions and exploring new technologies.
+# Abdelkhalek
+
+## About Me
+Software Engineer with a strong foundation in system administration and web development, focused on building scalable, reliable systems. AI & DevOps enthusiast specializing in automation, cloud infrastructure, and practical machine learning integration.
+
+
+## Contact
+If you’d like to collaborate or discuss a project, reach me via:
+- **LinkedIn:** [abdelkhalekb](https://www.linkedin.com/in/abdelkhalekb/)
+- **Email:** [boutahriabdelkhalek@gmail.com](mailto:boutahriabdelkhalek@gmail.com)
+
+
 
 ## 💻 Technical Skills
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
