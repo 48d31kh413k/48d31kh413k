@@ -12,8 +12,8 @@ If you’d like to collaborate or discuss a project, reach me via:
 
 
 ## 💻 Technical Skills
-[![My Skills](https://skillicons.dev/icons?i=docker,kubernetes,gitlab,heroku,vercel,nginx,postman,redis&perline=8)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,js,bash,java,php,py&perline=7)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,django,react,sass&perline=7)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=mongodb,mysql,postgres,sqlite&perline=4)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=linux,debian,redhat,ubuntu,apple&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=docker,kubernetes,gitlab,heroku,vercel,nginx,postman,redis)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,js,bash,java,php,py)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,django,react,sass)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mongodb,mysql,postgres,sqlite)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux,debian,redhat,ubuntu,apple)](https://skillicons.dev)
