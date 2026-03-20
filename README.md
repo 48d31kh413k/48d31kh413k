@@ -1,7 +1,7 @@
 
 
 ## 🧠 About Me
-Software Engineer with a strong foundation in system administration and web development, focused on building scalable, reliable systems. AI & DevOps enthusiast specializing in automation, cloud infrastructure, and practical machine learning integration.
+Software Engineer with a strong foundation in system administration and web development, focused on building scalable, reliable systems. AI & DevOps enthusiast specializing in automation, cloud infrastructure, and practical AI integration.
 
 
 ## 📫 Contact
