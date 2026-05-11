@@ -7,7 +7,7 @@ Software & DevOps Engineer with a strong background in system administration and
 ## 📫 Contact
 If you’d like to collaborate or discuss a project, reach me via:
 - **LinkedIn:** [abdelkhalekb](https://www.linkedin.com/in/abdelkhalekb/)
-- **Discord:** [abdelkhalek](https://discord.com/users/abboutah#0561)
+- **Discord:** [abdelkhalek](https://discord.com/users/904691004752404521)
 - **Gmail:** [abdelkhalek](mailto:boutahriabdelkhalek@gmail.com)
 
 
