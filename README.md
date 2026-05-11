@@ -1,7 +1,7 @@
 
 
 ## 🧠 About Me
-Software & DevOps Engineer with a strong background in system administration, focused on designing scalable and reliable systems. Passionate about automation, cloud infrastructure, and integrating AI into real-world engineering workflows.
+Software & DevOps Engineer with a strong background in system administration and web development, focused on building scalable systems. Specializing in cloud infrastructure, automation, and CI/CD, with a growing focus on AI-driven engineering workflows.
 
 
 ## 📫 Contact
